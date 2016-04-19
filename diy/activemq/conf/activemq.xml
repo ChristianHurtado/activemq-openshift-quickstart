@@ -133,7 +133,7 @@
             http://activemq.apache.org/configuring-transports.html
         -->
         <transportConnectors>
-            <transportConnector name="mqtt" uri="mqtt://OPENSHIFT_DIY_IP:1883?brokerName=shekhar"/>
+            <transportConnector name="mqtt" uri="mqtt://OPENSHIFT_DIY_IP:1883"/>
         </transportConnectors>
 
 
